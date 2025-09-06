@@ -1,7 +1,8 @@
 # Repositório para testes de comandos git
 
-<div>
+<div style="display: inline-block">
 
+<img alt="Python" title="Python" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>&nbsp;
  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>&nbsp;
 
 </div>
