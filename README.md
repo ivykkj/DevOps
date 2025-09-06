@@ -6,8 +6,6 @@
 
 </div>
 
-<br>
-
 ### aula 1: criação do repositório e primeiros comandos
 
-### aula 2: utilização de novos comandos como revert e checkout para criar uma branch nova
+### aula 2: utilização de novos comandos como revert e o checkout para criar uma branch nova
